@@ -1,0 +1,13 @@
+Metas:
+1.crear un asistente a voz que permita la introduccion de valores numeros que seran 
+entendidos como dinero, para poder llevar un registro lo mas comodo posible de las finanzas del usuario
+2. este asistente debera ser manejado(POR AHORA) unicamente por voz
+
+Requisitos del sistema:
+-debe ser capaz de entender cantidades numericas()
+-debe ser capaz de leer cantidades numericas y expresarlas mediante voz y texto()
+-debe ser capaz de contextualizar esas cantidades numericas, ya sean, ingresos, deudas, prestamos, etc.()
+-debe ser capaz de registrar con fecha y hora cada ingreso de datos()
+-debe ser capaz de modificar los datos, mendiantes voz, para las correcciones()
+-debe ser capaz de graficar y explicar los datos en tiempo real()
+-debe dar sugerencias de comportamiento o remarcar gastos innecesarios()
