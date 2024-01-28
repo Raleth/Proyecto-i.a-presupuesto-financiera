@@ -11,3 +11,6 @@ Requisitos del sistema:
 -debe ser capaz de modificar los datos, mendiantes voz, para las correcciones()
 -debe ser capaz de graficar y explicar los datos en tiempo real()
 -debe dar sugerencias de comportamiento o remarcar gastos innecesarios()
+
+Cosas que hacer mañana
+-entender y hacer correr el ejemplo del maincd
